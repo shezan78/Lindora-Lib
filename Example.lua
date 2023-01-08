@@ -1,5 +1,6 @@
--- New example script written by wally
--- You can suggest changes with a pull request or something
+
+-- local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/shezan78/Lindora-Lib/main/Library.lua"))()
+-- local SaveManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/shezan78/Lindora-Lib/main/addons/SaveManager.lua"))()
 
 local repo = 'https://raw.githubusercontent.com/shezan78/Lindora-Lib/'
 
