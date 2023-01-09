@@ -1,4 +1,4 @@
-# Lindora-Lib
+# Linora-Lib
 Simple cool UI library for roblox
 
 ### A Roblox UI library inspired by Splix, Shezan and many others. Developed by Inori. Maintained by Wally.
